@@ -1,6 +1,6 @@
 Full Name,Email Address,phone#,Business,Service Needed,Notes,Created At,Unused Column
-"  jane smith  ","JANE@EXAMPLE.COM","1-415-555-0188","smith bakery","sheet cleanup","Duplicate form rows and mixed phone formats","2026-06-18 09:15","keep"
-"MARIO  Lopez","mario.lopez@example.com","(212) 555 0199","lopez repairs","csv import","Need imported leads matched to one sheet","2026-06-18 10:02","keep"
+" jane smith ","JANE@EXAMPLE.COM","1-415-555-0188","smith bakery","sheet cleanup","Duplicate form rows and mixed phone formats","2026-06-18 09:15","keep"
+"MARIO Lopez","mario.lopez@example.com","(212) 555 0199","lopez repairs","csv import","Need imported leads matched to one sheet","2026-06-18 10:02","keep"
 "Ava Chen","AVA.CHEN@EXAMPLE.COM","650.555.0134","chen studio","workflow automation","Notify owner when high-value inquiry arrives","2026-06-19 14:30","keep"
 "No Email Lead","","202-555-0177","local gym","form fix","Missing email should be reviewed before follow-up","2026-06-20 08:45","keep"
 "sam green","sam.green@example.com","5550198","green tutoring","automation","Wants a weekly summary from form responses","2026-06-20 12:10","keep"
